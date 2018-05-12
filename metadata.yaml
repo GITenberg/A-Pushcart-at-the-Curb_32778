@@ -1,0 +1,32 @@
+_repo: A-Pushcart-at-the-Curb_32778
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dos Passos, John
+    alias: Passos, John Dos
+    birthdate: 1896
+    deathdate: 1970
+    gutenberg_agent_id: '2015'
+    url: http://www.gutenberg.org/2009/agents/2015
+    wikipedia: http://en.wikipedia.org/wiki/John_Dos_Passos
+description: 'Though best known as a novelist, Dos Passos was also a talented poet,
+  as this 1922 volume of travel poems demonstrates. The contents are: Winter in Castile,
+  Nights at Bassano, Vagones de Tercera, Quai de la Tournelle, On Foreign Travel,
+  and Phases of the Moon.'
+gutenberg_issued: '2010-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32778'
+  lccn: '22020749'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Poetry'
+title: A Pushcart at the Curb
+url: http://www.gutenberg.org/ebooks/32778

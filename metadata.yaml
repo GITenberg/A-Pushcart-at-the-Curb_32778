@@ -16,6 +16,8 @@ description: 'Though best known as a novelist, Dos Passos was also a talented po
   as this 1922 volume of travel poems demonstrates. The contents are: Winter in Castile,
   Nights at Bassano, Vagones de Tercera, Quai de la Tournelle, On Foreign Travel,
   and Phases of the Moon.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32778#A-Pushcart-at-the-Curb
 gutenberg_issued: '2010-06-11'
 gutenberg_type: Text
 identifiers:
